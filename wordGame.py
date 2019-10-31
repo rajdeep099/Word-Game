@@ -991,6 +991,7 @@ def mainLoop():
 def start():
 
     turtle.setup(800,700)
+    turtle.title("WORD GAME")
     turtle.speed(0)
     turtle.pensize(4)
     turtle.hideturtle()
