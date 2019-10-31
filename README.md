@@ -12,5 +12,8 @@ How to play:-
   2) player will be given atmost 6 chances or 6 wrong answers are accepted which will lead to END/LOSE of the game.
   3) if the player guesses the correct word before attempting 6 errors he/she will WIN THE GAME.
 
-Attachments:-
-  1) 
+Images:-
+![GAME INTERFACE](https://raw.githubusercontent.com/rajdeep099/Word-Game/master/game.png)
+![WIN](https://raw.githubusercontent.com/rajdeep099/Word-Game/master/win.png)  
+![LOST](https://raw.githubusercontent.com/rajdeep099/Word-Game/master/lost.png)
+
