@@ -13,6 +13,7 @@ This is an interactive game which uses turtle module in Python 3.
   3. If the player guesses the correct word before attempting 6 errors he/she will WIN THE GAME.
 
 ## Images
+![GAME INTERFACE](https://raw.githubusercontent.com/rajdeep099/Word-Game/master/main.png)
 ![GAME INTERFACE](https://raw.githubusercontent.com/rajdeep099/Word-Game/master/game.png)
 ![WIN](https://raw.githubusercontent.com/rajdeep099/Word-Game/master/win.png)  
 ![LOST](https://raw.githubusercontent.com/rajdeep099/Word-Game/master/lost.png)
